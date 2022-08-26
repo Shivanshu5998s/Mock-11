@@ -2,9 +2,9 @@
 
 26Aug2022 --- New changes.
 
-# Pet Store
+# Doctor-Patient Records Store
 
-A small react app to keep the data of the pets available in the sore.
+A small react app to keep the data of the Doctor-Patient Records available in the store.
 
 ## Demo video
 
@@ -28,7 +28,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 ## Dashboard
 
-## Add pet Page
+## Add Doctor-Patient Records Page
 
 ## Update data page
 
