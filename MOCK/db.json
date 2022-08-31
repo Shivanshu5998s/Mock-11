@@ -1,0 +1,40 @@
+{
+  "pets": [
+    {
+      "availability": "Available",
+      "med": "Crocine",
+      "name": "Shivanshu Chobey",
+      "price": "100",
+      "photo": "https://cdn5.vectorstock.com/i/1000x1000/78/14/tiny-cute-cartoon-patient-man-character-broken-vector-26027814.jpg",
+      "duration": "1 year",
+      "id": 4
+    },
+    {
+      "availability": "Available",
+      "med": "Disprine",
+      "name": "Shivanshu",
+      "photo": "https://cdn5.vectorstock.com/i/1000x1000/78/14/tiny-cute-cartoon-patient-man-character-broken-vector-26027814.jpg",
+      "price": "499",
+      "duration": "5 year",
+      "id": 5
+    },
+    {
+      "availability": "Available",
+      "med": "CDS",
+      "name": "Ana",
+      "price": "888",
+      "photo": "ss",
+      "duration": "1 year",
+      "id": 6
+    },
+    {
+      "availability": "Available",
+      "med": "Shivanshu Chobey",
+      "name": "ssxsx",
+      "price": "1122",
+      "photo": "sxs",
+      "duration": "2 year",
+      "id": 7
+    }
+  ]
+}

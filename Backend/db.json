@@ -1,0 +1,269 @@
+{
+  "patients": [
+    {
+      "id": 1,
+      "name": "abc",
+      "no_of_medicines": "2",
+      "medicines": [
+        {
+          "id": 1,
+          "name": "abc_medicine1",
+          "quantity": 10
+        },
+        {
+          "id": 2,
+          "name": "abc_medicine2",
+          "quantity": 15
+        }
+      ],
+      "age": 25,
+      "gender": "male"
+    },
+    {
+      "id": 2,
+      "name": "alfa",
+      "no_of_medicines": "4",
+      "medicines": [
+        {
+          "id": 1,
+          "name": "alfa_medicine1",
+          "quantity": 10
+        },
+        {
+          "id": 2,
+          "name": "alfa_medicine2",
+          "quantity": 10
+        },
+        {
+          "id": 3,
+          "name": "alfa_medicine3",
+          "quantity": 20
+        },
+        {
+          "id": 4,
+          "name": "alfa_medicine4",
+          "quantity": 20
+        }
+      ],
+      "age": 35,
+      "gender": "male"
+    },
+    {
+      "id": 3,
+      "name": "john",
+      "no_of_medicines": "3",
+      "medicines": [
+        {
+          "id": 1,
+          "name": "john_medicine1",
+          "quantity": 10
+        },
+        {
+          "id": 2,
+          "name": "john_medicine2",
+          "quantity": 20
+        },
+        {
+          "id": 3,
+          "name": "john_medicine3",
+          "quantity": 20
+        }
+      ],
+      "age": 28,
+      "gender": "male"
+    },
+    {
+      "id": 4,
+      "name": "lucy",
+      "no_of_medicines": "2",
+      "medicines": [
+        {
+          "id": 1,
+          "name": "lucy_medicine1",
+          "quantity": 10
+        },
+        {
+          "id": 2,
+          "name": "lucy_medicine2",
+          "quantity": 10
+        }
+      ],
+      "age": 30,
+      "gender": "female"
+    },
+    {
+      "id": 5,
+      "name": "stacy",
+      "no_of_medicines": "2",
+      "medicines": [
+        {
+          "id": 1,
+          "name": "stacy_medicine1",
+          "quantity": 15
+        },
+        {
+          "id": 2,
+          "name": "stacy_medicine2",
+          "quantity": 15
+        },
+        {
+          "id": 3,
+          "name": "stacy_medicine3",
+          "quantity": 15
+        },
+        {
+          "id": 4,
+          "name": "stacy_medicine4",
+          "quantity": 15
+        }
+      ],
+      "age": 24,
+      "gender": "female"
+    },
+    {
+      "id": 6,
+      "name": "luka",
+      "no_of_medicines": "5",
+      "medicines": [
+        {
+          "id": 1,
+          "name": "luka_medicine1",
+          "quantity": 10
+        },
+        {
+          "id": 2,
+          "name": "luka_medicine2",
+          "quantity": 15
+        },
+        {
+          "id": 3,
+          "name": "luka_medicine3",
+          "quantity": 10
+        },
+        {
+          "id": 4,
+          "name": "luka_medicine4",
+          "quantity": 15
+        },
+        {
+          "id": 5,
+          "name": "luka_medicine5",
+          "quantity": 10
+        }
+      ],
+      "age": 45,
+      "gender": "male"
+    },
+    {
+      "id": 7,
+      "name": "xyz",
+      "no_of_medicines": "2",
+      "medicines": [
+        {
+          "id": 1,
+          "name": "xyz_medicine1",
+          "quantity": 20
+        },
+        {
+          "id": 2,
+          "name": "xyz_medicine2",
+          "quantity": 10
+        }
+      ],
+      "age": 50,
+      "gender": "female"
+    },
+    {
+      "id": 8,
+      "name": "antony",
+      "no_of_medicines": "4",
+      "medicines": [
+        {
+          "id": 1,
+          "name": "antony_medicine1",
+          "quantity": 10
+        },
+        {
+          "id": 2,
+          "name": "antony_medicine2",
+          "quantity": 10
+        },
+        {
+          "id": 3,
+          "name": "antony_medicine3",
+          "quantity": 30
+        },
+        {
+          "id": 4,
+          "name": "antony_medicine4",
+          "quantity": 30
+        }
+      ],
+      "age": 35,
+      "gender": "male"
+    },
+    {
+      "id": 9,
+      "name": "henry",
+      "no_of_medicines": "6",
+      "medicines": [
+        {
+          "id": 1,
+          "name": "henry_medicine1",
+          "quantity": 10
+        },
+        {
+          "id": 2,
+          "name": "henry_medicine2",
+          "quantity": 10
+        },
+        {
+          "id": 3,
+          "name": "henry_medicine3",
+          "quantity": 20
+        },
+        {
+          "id": 4,
+          "name": "henry_medicine4",
+          "quantity": 20
+        },
+        {
+          "id": 5,
+          "name": "henry_medicine5",
+          "quantity": 30
+        },
+        {
+          "id": 6,
+          "name": "henry_medicine6",
+          "quantity": 30
+        }
+      ],
+      "age": 33,
+      "gender": "male"
+    },
+    {
+      "id": 10,
+      "name": "emma",
+      "no_of_medicines": "3",
+      "medicines": [
+        {
+          "id": 1,
+          "name": "emma_medicine1",
+          "quantity": 30
+        },
+        {
+          "id": 2,
+          "name": "emma_medicine2",
+          "quantity": 30
+        },
+        {
+          "id": 3,
+          "name": "emma_medicine3",
+          "quantity": 30
+        }
+      ],
+      "age": 42,
+      "gender": "female"
+    }
+  ]
+}
